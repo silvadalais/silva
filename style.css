@@ -1,8 +1,10 @@
-Header {
+.cabeçalho {
     background-color: #424e61;
     color: white;
+    display: flex;
 }
 
 .cabeçalho-imagem{
 width: 15%;
 }
+
